@@ -1,0 +1,7 @@
+﻿  QuestionableCode.cpp
+C:\Users\molly\source\repos\5-3 Activity - Static Code Analysis\5-3 Activity - Static Code Analysis\QuestionableCode.cpp(52,9): warning C4297: 'MySpecialType::DontThrow': function assumed not to throw an exception but does
+      C:\Users\molly\source\repos\5-3 Activity - Static Code Analysis\5-3 Activity - Static Code Analysis\QuestionableCode.cpp(52,9):
+      __declspec(nothrow), throw(), noexcept(true), or noexcept was specified on the function
+  
+C:\Users\molly\source\repos\5-3 Activity - Static Code Analysis\5-3 Activity - Static Code Analysis\QuestionableCode.cpp(129,5): warning C4806: '==': unsafe operation: no value of type 'bool' promoted to type 'int' can equal the given constant
+  5-3 Activity - Static Code Analysis.vcxproj -> C:\Users\molly\source\repos\5-3 Activity - Static Code Analysis\x64\Debug\5-3 Activity - Static Code Analysis.exe
