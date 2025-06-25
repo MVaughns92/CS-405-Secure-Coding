@@ -1,0 +1,8 @@
+﻿  2-2 Activity - SQL Injection Coding.cpp
+C:\Users\molly\source\repos\2-2 Activity - SQL Injection Coding\2-2 Activity - SQL Injection Coding\2-2 Activity - SQL Injection Coding.cpp(191,15): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+2-2 Activity - SQL Injection Coding.obj : error LNK2019: unresolved external symbol sqlite3_close referenced in function main
+2-2 Activity - SQL Injection Coding.obj : error LNK2019: unresolved external symbol sqlite3_exec referenced in function "bool __cdecl initialize_database(struct sqlite3 *)" (?initialize_database@@YA_NPEAUsqlite3@@@Z)
+2-2 Activity - SQL Injection Coding.obj : error LNK2019: unresolved external symbol sqlite3_free referenced in function "bool __cdecl initialize_database(struct sqlite3 *)" (?initialize_database@@YA_NPEAUsqlite3@@@Z)
+2-2 Activity - SQL Injection Coding.obj : error LNK2019: unresolved external symbol sqlite3_open referenced in function main
+2-2 Activity - SQL Injection Coding.obj : error LNK2019: unresolved external symbol sqlite3_errmsg referenced in function main
+C:\Users\molly\source\repos\2-2 Activity - SQL Injection Coding\x64\Debug\2-2 Activity - SQL Injection Coding.exe : fatal error LNK1120: 5 unresolved externals
